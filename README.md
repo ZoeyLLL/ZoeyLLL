@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-I’m Zoey Lyu, studying computer science, and neuroscience @UNC-Chapel Hill
+I’m Zoey Lyu, studying computer science and neuroscience @UNC-Chapel Hill
+(secretly abandoned business major)
 - 🔭 I’m currently working on cognitive science and multi-modal
 - 💞️ I’m looking to collaborate on AI4Science projects
 - 📫 How to reach me: zoeylyu11 [at] gmail.com
