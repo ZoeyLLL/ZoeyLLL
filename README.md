@@ -9,11 +9,11 @@ I’m Zoey Lyu, studying computer science and neuroscience @UNC-Chapel Hill
 - 
                1. I am intrigued by brain-computer interface and biomechatronics 
 
-               2. I was trapped by heavy rain in Queensland, Australia for a week
+               2. I was trapped by heavy rain in Queensland, Australia for a week (no phone)
 
                3. In mandarin, my name means ✨rythm of the sea 🌊，pronouncing as hǎi yùn
 
-               4. I love getting to know new people
+               4. I love getting to know new people 
 <!--
 **ZoeyLLL/ZoeyLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
