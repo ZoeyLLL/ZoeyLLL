@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ZoeyLLL/ZoeyLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 I’m Zoey Lyu, studying computer science, and neuroscience @UNC-Chapel Hill
 - 🔭 I’m currently working on cognitive science and multi-modal
@@ -16,6 +12,8 @@ I’m Zoey Lyu, studying computer science, and neuroscience @UNC-Chapel Hill
 3. In mandarin, my name means ✨rythm of the sea 🌊，pronouncing as hǎi yùn
 
 4. Talk to me if you want to be my friend 
+<!--
+**ZoeyLLL/ZoeyLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
