@@ -12,7 +12,7 @@ I’m Zoey Lyu, studying computer science, and neuroscience @UNC-Chapel Hill
 
                3. In mandarin, my name means ✨rythm of the sea 🌊，pronouncing as hǎi yùn
 
-               4. Talk to me if you want to be my friend! 
+               4. Number 4 is my lucky number
 <!--
 **ZoeyLLL/ZoeyLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
