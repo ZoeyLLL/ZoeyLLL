@@ -6,7 +6,7 @@ I’m Zoey Lyu, studying computer science and neuroscience @UNC-Chapel Hill
 - 💞️ I’m looking to collaborate on AI4Science projects, especially those related to neuroscience, deep learning, computer vision and computational biology. 
 - 📫 How to reach me: zoeylyu11 [at] gmail.com
 - ⚡ Fun fact:
-- 
+ 
                1. I am intrigued by brain-computer interface and biomechatronics 
 
                2. I was trapped by heavy rain in Queensland, Australia for a week (no phone)
