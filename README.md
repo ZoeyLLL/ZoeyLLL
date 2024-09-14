@@ -13,7 +13,12 @@ I’m Zoey Lyu, studying computer science and neuroscience @UNC-Chapel Hill
 
                3. In mandarin, my name means ✨rythm of the sea 🌊，pronouncing as hǎi yùn
 
-               4. I love getting to know new people  
+               4. I love getting to know new people
+
+
+🔧 Skills
+Programming Languages: Python, Java, TypeScript/JavaScript, C, HTML/CSS, Rust
+Tools & Frameworks: Angular, FastAPI, MySQL, Docker, Git/GitHub, VS Code
 <!--
 **ZoeyLLL/ZoeyLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
