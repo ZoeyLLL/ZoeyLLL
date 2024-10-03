@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Hi, this is Haiyun
+this is Haiyun
 - 🔭 I’m currently working on cognitive science/computational biology and multi-modal concept bottleneck model
 - 📫 How to reach me: Haiyun-Lyu@unc.edu
 - ⚡ I am working on growing AI like a child and multi-modality analysis on brain data.  
