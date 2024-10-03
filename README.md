@@ -2,9 +2,9 @@
 
 
 this is Haiyun
-- 🔭 I’m currently working on cognitive science/computational biology and multi-modal concept bottleneck model
-- 📫 How to reach me: Haiyun-Lyu@unc.edu
-- ⚡ I am working on growing AI like a child and multi-modality analysis on brain data.  
+- 🔭 I’m currently working on multi-modal deep learning for cognitive science/computational biology/neuralsicence. 
+- 📫 You can reach me at: Haiyun-Lyu@unc.edu
+- ⚡ Funfact: I want to do research in deep learning for brain using brain-computer interface/biomechantronics/robotics one day. 
 - 🔧 Skills: PyTorch, CUDA, Python, Java, SQL, Tableau, Alteryx, R, TypeScript/JavaScript, C, HTML/CSS, Angular, FastAPI, Docker, Git/GitHub, VS Code, JupyterNotebook
 
 <!--
