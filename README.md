@@ -3,7 +3,7 @@
 
 this is Haiyun
 - 🔭 I’m currently working on multi-modal deep learning for cognitive science/computational biology/neuroscience. 
-- Research Interests: AI4Science(Computational Neuroscience, Computational Cognitive Science) 
+- ✨ Research Interests: AI4Science(Computational Neuroscience, Computational Cognitive Science) 
 - ⚡ Funfact: I want to do research in deep learning for brain using brain-computer interface/biomechantronics/robotics one day.
 - 🔧 Skills: PyTorch, CUDA, Python, Java, SQL, Tableau, Alteryx, R, TypeScript/JavaScript, C, HTML/CSS, Angular, FastAPI, Docker, Git/GitHub, VS Code, JupyterNotebook
 
